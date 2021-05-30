@@ -1,0 +1,28 @@
+body{
+    background-color: lightskyblue;
+    text-align: justify;
+}
+img{
+    height: 200px;
+}
+.table{
+    width: 100%;
+}
+hr{
+    border-color: black;
+    border-width: 5px;
+    border-style: dotted none none;
+    width: 7%;
+}
+.index_hr{
+    border-color:black;
+    border-width: 7px;
+    border-style: double none none;
+    width: 70%;
+}
+h3{
+    background-color: mediumblue;
+}
+.body{
+    text-align: center;
+}
